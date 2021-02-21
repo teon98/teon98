@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=Chanran33&show_icons=true&theme=cobalt&hide=contribs,prs)
+
 <!--
 **Chanran33/Chanran33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
