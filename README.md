@@ -1,18 +1,21 @@
-### Hi there 👋
+<h1 align=center>:heart_eyes:Thank you for your visit:heart_eyes:</h1>
 
-![Chanran33's github stats](https://github-readme-stats.vercel.app/api?username=Chanran33&show_icons=true&theme=material-palenight&hide=contribs,prs)
+<div align=center>
+  
+![Chanran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanran33&hide=stars&count_private=true&show_icons=true&theme=calm)
 
-<!--
-**Chanran33/Chanran33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align=center>
+  
+  :wave:Hi, I'm taeyoung. My major is **Computer Science** I'm studying **web development** and **machine learning**. <br>
+  My most language is **Python**. I will continue to study hard. So I want you to watch my growth. Thank you.
+  
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanran33&layout=compact)](https://github.com/Chanran3/github-readme-stats)
+
+</div>
