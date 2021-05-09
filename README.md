@@ -8,7 +8,7 @@
 
 <div align=center>
   
-  :wave:Hi, I'm taeyoung. My major is **Computer Science** I'm studying **web development** and **machine learning**. <br>
+  :wave:Hi, I'm taeyoung. My major is **Computer Science**. I'm studying **web development** and **machine learning**. <br>
   My most language is **Python**. I will continue to study hard. So I want you to watch my growth. Thank you.
   
   
