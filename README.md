@@ -16,6 +16,8 @@
 
 <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanran33&layout=compact)](https://github.com/Chanran3/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanran33&layout=compact)
 
 </div>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chanran33&repo=2021-Renew-Front&theme=material-palenight)
