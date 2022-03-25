@@ -2,7 +2,7 @@
 
 <div align=center>
   
-![Chanran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanran33&hide=stars&count_private=true&show_icons=true&theme=calm)
+![Chanran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanran33&hide=stars&count_private=true&show_icons=true&theme=material-palenight)
 
 </div>
 
