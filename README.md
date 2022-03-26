@@ -20,4 +20,3 @@
 
 </div>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chanran33&repo=2021-Renew-Front&theme=material-palenight)
