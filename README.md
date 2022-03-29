@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:614385,100:516395&height=200&section=header&text=Tae%20young&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Thank%20you%20for%20your%20visiting&descAlignY=53&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:614385,100:516395&height=150&section=header&text=Thank%20you%20for%20your%20visiting&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=33&fontAlign=50)
 
 <div align="center">
   
-### :wave: Hi! I'm taeyoung :wave:
+### :wave: Hi! I'm Taeyoung :wave:
 My major is **Computer Engineering**. I'm studying **web development**. <br>
 
 ### 🛠️ Skills 🛠️
