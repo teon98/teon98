@@ -34,4 +34,7 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 <a href="https://www.instagram.com/sparklingo_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&&logoColor=white"/></a>
 </div>
 
+### Activity
+![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
