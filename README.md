@@ -28,13 +28,17 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 ### 📖 Now Studying 📖
 ![three.js badge](https://img.shields.io/badge/-Three.js-%23F7DF1E?style=flat-square&logo=Three.js&logoColor=white&color=000000)
 
+### 🦁 Activity 🦁
+![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8&style=flat)
+![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
+![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10&style=flat)
+ 
 ### 🥰 Follow Me 🥰
 <a href="https://github.com/Chanran33/TIL"><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=github&&logoColor=white"/></a>
 <a href="https://velog.io/@sparkling0_0"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 <a href="https://www.instagram.com/sparklingo_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&&logoColor=white"/></a>
 </div>
 
-### Activity
-![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
