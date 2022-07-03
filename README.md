@@ -38,7 +38,6 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 ### 🥰 Follow Me 🥰
 <a href="https://github.com/Chanran33/TIL"><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=github&&logoColor=white"/></a>
 <a href="https://velog.io/@sparkling0_0"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
-<a href="https://www.instagram.com/sparklingo_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&&logoColor=white"/></a>
 </div>
 
 
