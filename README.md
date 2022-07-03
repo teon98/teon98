@@ -9,7 +9,9 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 **[ Programming Languages ]**<br>
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C badge](https://img.shields.io/badge/-C-%23F7DF1E?style=flat-square&logo=c&logoColor=black&color=A8B9CC)<br>
+![C badge](https://img.shields.io/badge/-C-%23F7DF1E?style=flat-square&logo=c&logoColor=black&color=A8B9CC)
+![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
+<br>
 **[ Frontend ]**<br>
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
