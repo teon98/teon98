@@ -9,7 +9,6 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 **[ Programming Languages ]**<br>
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C badge](https://img.shields.io/badge/-C-%23F7DF1E?style=flat-square&logo=c&logoColor=black&color=A8B9CC)
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
 <br>
 **[ Frontend ]**<br>
@@ -37,7 +36,7 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
  
 ### 🥰 Follow Me 🥰
 <a href="https://github.com/Chanran33/TIL"><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=github&&logoColor=white"/></a>
-<a href="https://velog.io/@sparkling0_0"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
+<a href="https://velog.io/@teon98"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 </div>
 
 
