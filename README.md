@@ -28,7 +28,7 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 ![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
 
 ### 📖 Now Studying 📖
-![three.js badge](https://img.shields.io/badge/-Three.js-%23F7DF1E?style=flat-square&logo=Three.js&logoColor=white&color=000000)
+![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ### 🦁 Activity 🦁
 ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8&style=flat)
