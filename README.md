@@ -35,7 +35,6 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 ![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10&style=flat)
  
 ### 🥰 Follow Me 🥰
-<a href="https://github.com/Chanran33/TIL"><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=github&&logoColor=white"/></a>
 <a href="https://velog.io/@teon98"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square"/></a>
 </div>
 
