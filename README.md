@@ -30,9 +30,9 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ### 🦁 Activity 🦁
-![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8&style=flat)
-![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
-![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10&style=flat)
+멋쟁이사자처럼 덕성여대 8기 멤버<br/>
+멋쟁이사자처럼 덕성여대 9기 대표<br/>
+멋쟁이사자처럼 덕성여대 10기 운영진<br/>
  
 ### 🥰 Follow Me 🥰
 <a href="https://velog.io/@teon98"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square"/></a>
