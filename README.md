@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:614385,100:516395&height=170&section=header&text=Tae%20young&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:78BB7B,100:30B2A2&height=170&section=header&text=Tae%20young&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
 
 <div align="center">
   
@@ -14,20 +14,18 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 **[ Frontend ]**<br>
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
-![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)
+![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)<br>
+![MUI badge](https://img.shields.io/badge/-MUI-%23F7DF1E?style=flat-square&logo=mui&logoColor=white&color=007FFF)
 ![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)<br>
-**[ Backend & DB & BaaS ]**<br>
+**[ Backend & DB ]**<br>
 ![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20)
-![node badge](https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat-square&logo=Node.js&logoColor=white&color=339933)
+![SpringBoot badge](https://img.shields.io/badge/-SpringBoot-%23F7DF1E?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)
+![node badge](https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat-square&logo=Node.js&logoColor=white&color=339933) <br>
 ![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
-![moongse badge](https://img.shields.io/badge/-MongoDB-%23F7DF1E?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
-![heroku badge](https://img.shields.io/badge/-Heroku-%23F7DF1E?style=flat-square&logo=Heroku&logoColor=white&color=430098)<br>
+![moongse badge](https://img.shields.io/badge/-MongoDB-%23F7DF1E?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)<br>
 **[ Design ]**<br>
 ![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
-
-### 📖 Now Studying 📖
-![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ### 🦁 Activity 🦁
 멋쟁이사자처럼 덕성여대 8기 멤버<br/>
@@ -40,4 +38,4 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:78BB7B,100:30B2A2)
