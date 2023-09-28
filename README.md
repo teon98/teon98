@@ -31,6 +31,7 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 멋쟁이사자처럼 덕성여대 8기 멤버<br/>
 멋쟁이사자처럼 덕성여대 9기 대표<br/>
 멋쟁이사자처럼 덕성여대 10기 운영진<br/>
+신한 DS 금융 SW 아카데미 1기 <br/>
  
 ### 🥰 Follow Me 🥰
 <a href="https://velog.io/@teon98"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square"/></a>
