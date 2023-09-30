@@ -37,6 +37,11 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 <a href="https://velog.io/@teon98"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square"/></a>
 </div>
 
+<div align="center">
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanran33)](https://solved.ac/chanran33)
 
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:78BB7B,100:30B2A2)
