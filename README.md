@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:78BB7B,100:30B2A2&height=170&section=header&text=Tae%20young&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
+### <div align="center">Hello! I'm Taeyoung. <br> Studying deeply about anything</div>
 
-<div align="center">
+## A
+- 👨‍💻 I’m currently working on web development technologies like SpringBoot, Vue etc.
+- 📚 My major is computer engineering.
+- 💖 I'm interested in 3D Library, Software design pattern, New web technology
+- 💪🏼 Future Goals: Being an irreplaceable person
   
-### :wave: Hi! I'm Taeyoung :wave:
-My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
-
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
@@ -36,12 +37,6 @@ My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
 ### 🥰 Follow Me 🥰
 <a href="https://velog.io/@teon98"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square"/></a>
 </div>
-
-<div align="center">
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanran33)](https://solved.ac/chanran33)
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:78BB7B,100:30B2A2)
