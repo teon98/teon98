@@ -1,6 +1,6 @@
 ### <div align="center">Hello! I'm Taeyoung. <br> Studying deeply about anything</div>
 
-## A
+## ABOUT ME
 - 👨‍💻 I’m currently working on web development technologies like SpringBoot, Vue etc.
 - 📚 My major is computer engineering.
 - 💖 I'm interested in 3D Library, Software design pattern, New web technology
