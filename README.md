@@ -67,6 +67,4 @@
 - 🦁 (2020) 멋쟁이사자처럼 덕성여대 8기 멤버
  
 ## Connect with me
-<p align="left">
-<a href="https://instagram.com/dev.teon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.teon" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/dev.teon/"><img width="40px" src="https://github.com/teon98/teon98/assets/49816869/3caf0e0c-f895-4f17-9e53-80b19ed69845" /><a>
