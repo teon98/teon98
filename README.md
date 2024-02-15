@@ -44,7 +44,7 @@
   <tr align="left">
     <th>DataBase</th>
     <td>
-      <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000" />
+      <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&color=F80000" />
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1" />
       <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MSSQL&logoColor=white" />
     </td>
