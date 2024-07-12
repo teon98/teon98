@@ -5,8 +5,8 @@
 
 ## ABOUT ME
 - 📚 My major is computer engineering.
-- 🌱 I'm currently learning **TypeScript, React, Vue, SpringBoot, Algorithm**
-- 💖 I'm interested in 3D Library, Software design pattern, New web technology
+- 🌱 I'm currently learning **Machine learning, Depep learning, Algorithm**
+- 💖 I'm interested in NLP.
 - 📝 I regularly write articles on https://teon98.tistory.com/
 - ⚡ Fun fact I love Metamong and Purple
   
