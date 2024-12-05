@@ -66,5 +66,6 @@
 - 🌍 (2021) GDSC Duksung
 - 🦁 (2020) 멋쟁이사자처럼 덕성여대 8기 멤버
  
-## Connect with me
-<a href="https://www.instagram.com/dev.teon/"><img width="40px" src="https://github.com/teon98/teon98/assets/49816869/3caf0e0c-f895-4f17-9e53-80b19ed69845" /><a>
+## Career
+- 💡 (2024) 세스코 정보전략팀 AI 개발자(재직중)
+- 💻 (2024) 세스코 정보시스템팀 웹 개발자( ~ 24.04.27)
