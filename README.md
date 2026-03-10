@@ -36,6 +36,7 @@
   <tr>
     <th align="left">Backend</th>
     <td>
+      <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
       <img alt="django" src="https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20" />
       <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
       <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-%23F7DF1E?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F" />
@@ -44,6 +45,7 @@
   <tr align="left">
     <th>DataBase</th>
     <td>
+      <img alt="PostegreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
       <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&color=F80000" />
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1" />
       <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MSSQL&logoColor=white" />
@@ -53,7 +55,7 @@
     <th>Etc</th>
     <td>
       <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E" />
-      <img alt="vsCode" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+      <img alt="vsCode" src="https://shields.io/badge/-Vscode-93f6ef?style=flat-squar&logo=vscodium"/>
       <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
     </td>
   </tr>
@@ -67,9 +69,9 @@
 - 🦁 (2020) 멋쟁이사자처럼 덕성여대 8기 멤버
  
 ## Career
-- 🤖 (2025) 조이앤비즈 연구소 미래전략팀 ( 25.02.01 ~  )
-- 💡  (2025) 세스코 정보전략팀 전략기획자 ( 24.04.27 ~ 25.01.31 )
-- 💻 (2024) 세스코 정보시스템팀 웹 개발자 ( 23.10.01 ~ 24.04.27 )
+- 🤖 (2025) 조이앤비즈 연구소 미래전략팀 | 사원 ( 25.02.01 ~  )
+- 💡  (2025) 세스코 정보전략팀 전략기획자 | 매니저 ( 24.04.27 ~ 25.01.31 )
+- 💻 (2024) 세스코 정보시스템팀 웹 개발자 | 매니저 ( 23.10.01 ~ 24.04.27 )
 
 ## License
 - 📃 (2024) 인공지능 (AI) 전문가 1급
