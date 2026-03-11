@@ -4,61 +4,88 @@
 </div>
 
 ## ABOUT ME
-- 📚 My major is computer engineering.
-- 🌱 I'm currently learning **Machine learning, Deep learning, Algorithm**
-- 💖 I'm interested in NLP.
-- 📝 I regularly write articles on https://teon98.tistory.com/
-- ⚡ Fun fact I love Metamong and Purple
-  
+💻 Full-stack developer building AI-powered applications
+
+- 📚 Computer Engineering major
+- 🧠 Currently exploring **Context Engineering** and **VLM-based document understanding**
+- 🚀 Interested in **Algorithm problem solving**
+- 📝 I write technical articles at https://teon98.tistory.com/
+- 🐱 Fun fact: I have a lovely cat named **Rabong** and I'm totally falling in love with him
+
 ## Skills 
 
 <table>
   <tr>
-    <th align="left">Programming<br/>Languages</th>
+    <th align="left">Programming<br/> Languages</th>
     <td>
-      <img alt="python badge" src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB"/>
-      <img alt="javascript badge" src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-      <img alt="java" src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396" />
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
     </td>
   </tr>
+
   <tr>
     <th align="left">Frontend</th>
     <td>
-      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26" />
-      <img alt="CSS" src="https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6" />
-      <img alt="React" src="https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB" />
-      <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/><br/>
-      <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-      <img alt="MUI" src="https://img.shields.io/badge/-MUI-%23F7DF1E?style=flat-square&logo=mui&logoColor=white&color=007FFF" />
-      <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3" />
+      <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+      <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
     </td>
   </tr>
+
+  <tr>
+    <th align="left">State<br/> Management</th>
+    <td>
+      <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+      <img alt="Zustand" src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">AI / LLM</th>
+    <td>
+      <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white""/>
+    </td>
+  </tr>
+
   <tr>
     <th align="left">Backend</th>
     <td>
-      <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-      <img alt="django" src="https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20" />
-      <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-      <img alt="springboot" src="https://img.shields.io/badge/-SpringBoot-%23F7DF1E?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F" />
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     </td>
   </tr>
-  <tr align="left">
-    <th>DataBase</th>
+
+  <tr>
+    <th align="left">Database</th>
     <td>
-      <img alt="PostegreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&color=F80000" />
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1" />
-      <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MSSQL&logoColor=white" />
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
     </td>
   </tr>
-  <tr align="left">
-    <th>Etc</th>
+
+  <tr>
+    <th align="left">DevOps</th>
     <td>
-      <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E" />
-      <img alt="vsCode" src="https://shields.io/badge/-Vscode-93f6ef?style=flat-squar&logo=vscodium"/>
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
+
+  <tr>
+    <th align="left">Tools</th>
+    <td>
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+
 </table>
 
 ## Activity 
